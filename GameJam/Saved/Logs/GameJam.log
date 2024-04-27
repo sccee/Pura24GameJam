@@ -913,3 +913,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.27-08.41.46:217][768]LogContentBrowser: Creating deferred item: NewFolder
 [2024.04.27-08.41.49:290][898]LogContentBrowser: Attempting asset rename: NewFolder -> blueprints
 [2024.04.27-08.41.49:292][898]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.27-08.42.30:599][ 48]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.42.47:026][ 97]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
