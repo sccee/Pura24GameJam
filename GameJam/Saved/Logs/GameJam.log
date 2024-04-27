@@ -1177,3 +1177,1267 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.27-08.07.42:279][  0]LogAssetRegistry: Asset discovery search completed in 10.7554 seconds
 [2024.04.27-08.07.42:287][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2024.04.27-08.07.42:356][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.27-08.19.12:526][763]MapCheck: New page: Map Check
+[2024.04.27-08.19.12:579][763]Cmd: MAP REBUILD ALLVISIBLE
+[2024.04.27-08.19.12:579][763]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.04.27-08.19.12:591][763]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2024.04.27-08.19.12:621][763]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.04.27-08.19.12:621][763]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.04.27-08.19.12:621][763]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.04.27-08.19.12:634][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.27-08.19.12:728][763]LogLevel: Display: Export Material TexCoord Scales took 0.091 seconds.
+[2024.04.27-08.19.12:730][763]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2024.04.27-08.19.12:736][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.04.27-08.19.12:763][763]LightingResults: New page: Lighting Build - 27 Nis 2024 14:19:12
+[2024.04.27-08.19.12:824][763]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.04.27-08.19.12:927][763]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.04.27-08.19.12:946][763]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.04.27-08.19.13:986][763]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.04.27-08.19.13:986][763]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14816
+[2024.04.27-08.19.28:719][763]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.04.27-08.19.28:735][763]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2024.04.27-08.19.29:737][763]LogEditorBuildUtils: Build time 0:17
+[2024.04.27-08.19.29:847][764]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.27-08.19.29:893][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.27-08.19.29:919][764]LogSavePackage: Moving '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/Minimal_Default_Auto12B5F4661495AC6DA9783A485F338D48E.tmp' to '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2024.04.27-08.19.29:920][764]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.033
+[2024.04.27-08.19.29:920][764]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.04.27-08.20.13:616][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.04.27-08.20.16:231][431]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.27-08.20.16:243][431]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.27-08.20.19:647][635]LogContentBrowser: Attempting asset rename: NewFolder -> assets
+[2024.04.27-08.20.19:650][635]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.27-08.20.45:059][854]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\untitled.fbx)
+[2024.04.27-08.20.45:099][854]LogFbx: Loading FBX Scene from C:\Users\burak\Desktop\pura game jam\karakter\untitled.fbx
+[2024.04.27-08.20.45:145][854]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.27-08.20.47:802][854]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.27-08.20.47:862][854]LogMaterial: Display: Missing cached shadermap for LCBase in PCD3D_SM5, Default, SM5 (DDC key hash: E6BB2929865A658266B7767412F01E7F75AC7607), compiling. 
+[2024.04.27-08.20.47:880][854]LogStaticMesh: Building static mesh untitled_head_lowpoly_001...
+[2024.04.27-08.20.47:897][854]LogStaticMesh: Built static mesh [0.02s] /Game/assets/untitled_head_lowpoly_001.untitled_head_lowpoly_001
+[2024.04.27-08.20.47:920][854]LogStaticMesh: Building static mesh untitled_gastank_lowpoly_001...
+[2024.04.27-08.20.47:952][854]LogStaticMesh: Built static mesh [0.03s] /Game/assets/untitled_gastank_lowpoly_001.untitled_gastank_lowpoly_001
+[2024.04.27-08.20.47:968][854]LogFbx: Display: Triangulating static mesh shoesoles1_lowpoly1.001
+[2024.04.27-08.20.47:985][854]LogStaticMesh: Building static mesh untitled_shoesoles1_lowpoly1_001...
+[2024.04.27-08.20.47:996][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_shoesoles1_lowpoly1_001.untitled_shoesoles1_lowpoly1_001
+[2024.04.27-08.20.48:007][854]LogStaticMesh: Building static mesh untitled_boots_lowpoly2_001...
+[2024.04.27-08.20.48:022][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_boots_lowpoly2_001.untitled_boots_lowpoly2_001
+[2024.04.27-08.20.48:033][854]LogStaticMesh: Building static mesh untitled_flashlightleather_lowpoly_001...
+[2024.04.27-08.20.48:039][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_flashlightleather_lowpoly_001.untitled_flashlightleather_lowpoly_001
+[2024.04.27-08.20.48:062][854]LogStaticMesh: Building static mesh untitled_gastank_lowpoly_002...
+[2024.04.27-08.20.48:071][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_gastank_lowpoly_002.untitled_gastank_lowpoly_002
+[2024.04.27-08.20.48:083][854]LogStaticMesh: Building static mesh untitled_head1_lowpoly_001...
+[2024.04.27-08.20.48:091][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_head1_lowpoly_001.untitled_head1_lowpoly_001
+[2024.04.27-08.20.48:099][854]LogStaticMesh: Building static mesh untitled_buckles_lowpoly5_001...
+[2024.04.27-08.20.48:105][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_buckles_lowpoly5_001.untitled_buckles_lowpoly5_001
+[2024.04.27-08.20.48:111][854]LogFbx: Display: Triangulating static mesh shoesoles_lowpoly2.001
+[2024.04.27-08.20.48:126][854]LogStaticMesh: Building static mesh untitled_shoesoles_lowpoly2_001...
+[2024.04.27-08.20.48:135][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_shoesoles_lowpoly2_001.untitled_shoesoles_lowpoly2_001
+[2024.04.27-08.20.48:145][854]LogStaticMesh: Building static mesh untitled_valve_lowpoly_001...
+[2024.04.27-08.20.48:156][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_valve_lowpoly_001.untitled_valve_lowpoly_001
+[2024.04.27-08.20.48:165][854]LogStaticMesh: Building static mesh untitled_flashlightpouch_lowpoly_001...
+[2024.04.27-08.20.48:171][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_flashlightpouch_lowpoly_001.untitled_flashlightpouch_lowpoly_001
+[2024.04.27-08.20.48:180][854]LogStaticMesh: Building static mesh untitled_valve_lowpoly_002...
+[2024.04.27-08.20.48:186][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_valve_lowpoly_002.untitled_valve_lowpoly_002
+[2024.04.27-08.20.48:194][854]LogStaticMesh: Building static mesh untitled_filter_lowpoly_001...
+[2024.04.27-08.20.48:204][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_filter_lowpoly_001.untitled_filter_lowpoly_001
+[2024.04.27-08.20.48:211][854]LogStaticMesh: Building static mesh untitled_buckles_lowpoly3_001...
+[2024.04.27-08.20.48:213][854]LogStaticMesh: Built static mesh [0.00s] /Game/assets/untitled_buckles_lowpoly3_001.untitled_buckles_lowpoly3_001
+[2024.04.27-08.20.48:220][854]LogFbx: Display: Triangulating static mesh shoesoles_lowpoly.001
+[2024.04.27-08.20.48:230][854]LogStaticMesh: Building static mesh untitled_shoesoles_lowpoly_001...
+[2024.04.27-08.20.48:237][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_shoesoles_lowpoly_001.untitled_shoesoles_lowpoly_001
+[2024.04.27-08.20.48:249][854]LogStaticMesh: Building static mesh untitled_flashlight_lowpoly_001...
+[2024.04.27-08.20.48:259][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_flashlight_lowpoly_001.untitled_flashlight_lowpoly_001
+[2024.04.27-08.20.48:279][854]LogStaticMesh: Building static mesh untitled_hand_lowpoly...
+[2024.04.27-08.20.48:314][854]LogStaticMesh: Built static mesh [0.04s] /Game/assets/untitled_hand_lowpoly.untitled_hand_lowpoly
+[2024.04.27-08.20.48:335][854]LogStaticMesh: Building static mesh untitled_gastank_lowpoly_003...
+[2024.04.27-08.20.48:336][854]LogStaticMesh: Built static mesh [0.00s] /Game/assets/untitled_gastank_lowpoly_003.untitled_gastank_lowpoly_003
+[2024.04.27-08.20.48:344][854]LogStaticMesh: Building static mesh untitled_headbutton_lowpoly_001...
+[2024.04.27-08.20.48:356][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_headbutton_lowpoly_001.untitled_headbutton_lowpoly_001
+[2024.04.27-08.20.48:362][854]LogStaticMesh: Building static mesh untitled_buckles_lowpoly1_001...
+[2024.04.27-08.20.48:363][854]LogStaticMesh: Built static mesh [0.00s] /Game/assets/untitled_buckles_lowpoly1_001.untitled_buckles_lowpoly1_001
+[2024.04.27-08.20.48:370][854]LogStaticMesh: Building static mesh untitled_toolbelt_lowpoly_001...
+[2024.04.27-08.20.48:377][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_toolbelt_lowpoly_001.untitled_toolbelt_lowpoly_001
+[2024.04.27-08.20.48:385][854]LogFbx: Display: Triangulating static mesh cheststraps1_lowpoly.001
+[2024.04.27-08.20.48:415][854]LogStaticMesh: Building static mesh untitled_cheststraps1_lowpoly_001...
+[2024.04.27-08.20.48:425][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_cheststraps1_lowpoly_001.untitled_cheststraps1_lowpoly_001
+[2024.04.27-08.20.48:433][854]LogFbx: Display: Triangulating static mesh tubes_lowpoly
+[2024.04.27-08.20.48:487][854]LogStaticMesh: Building static mesh untitled_tubes_lowpoly...
+[2024.04.27-08.20.48:508][854]LogStaticMesh: Built static mesh [0.02s] /Game/assets/untitled_tubes_lowpoly.untitled_tubes_lowpoly
+[2024.04.27-08.20.48:523][854]LogStaticMesh: Building static mesh untitled_gastankscrew_lowpoly_004...
+[2024.04.27-08.20.48:526][854]LogStaticMesh: Built static mesh [0.00s] /Game/assets/untitled_gastankscrew_lowpoly_004.untitled_gastankscrew_lowpoly_004
+[2024.04.27-08.20.48:533][854]LogStaticMesh: Building static mesh untitled_buckles_lowpoly2_001...
+[2024.04.27-08.20.48:534][854]LogStaticMesh: Built static mesh [0.00s] /Game/assets/untitled_buckles_lowpoly2_001.untitled_buckles_lowpoly2_001
+[2024.04.27-08.20.48:542][854]LogStaticMesh: Building static mesh untitled_toolbelt1_lowpoly2_001...
+[2024.04.27-08.20.48:550][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_toolbelt1_lowpoly2_001.untitled_toolbelt1_lowpoly2_001
+[2024.04.27-08.20.48:556][854]LogFbx: Display: Triangulating static mesh cheststraps_lowpoly.001
+[2024.04.27-08.20.48:593][854]LogStaticMesh: Building static mesh untitled_cheststraps_lowpoly_001...
+[2024.04.27-08.20.48:604][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_cheststraps_lowpoly_001.untitled_cheststraps_lowpoly_001
+[2024.04.27-08.20.48:652][854]LogStaticMesh: Building static mesh untitled_body_lowpoly...
+[2024.04.27-08.20.48:757][854]LogStaticMesh: Built static mesh [0.11s] /Game/assets/untitled_body_lowpoly.untitled_body_lowpoly
+[2024.04.27-08.20.48:803][854]LogStaticMesh: Building static mesh untitled_buckles_lowpoly4_001...
+[2024.04.27-08.20.48:809][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_buckles_lowpoly4_001.untitled_buckles_lowpoly4_001
+[2024.04.27-08.20.48:817][854]LogStaticMesh: Building static mesh untitled_toolbelt1_lowpoly1_001...
+[2024.04.27-08.20.48:823][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_toolbelt1_lowpoly1_001.untitled_toolbelt1_lowpoly1_001
+[2024.04.27-08.20.48:832][854]LogStaticMesh: Building static mesh untitled_Radio_lowpoly_001...
+[2024.04.27-08.20.48:843][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_Radio_lowpoly_001.untitled_Radio_lowpoly_001
+[2024.04.27-08.20.48:851][854]LogFbx: Display: Triangulating static mesh nameplate_lowpoly.001
+[2024.04.27-08.20.48:853][854]LogStaticMesh: Building static mesh untitled_nameplate_lowpoly_001...
+[2024.04.27-08.20.48:855][854]LogStaticMesh: Built static mesh [0.00s] /Game/assets/untitled_nameplate_lowpoly_001.untitled_nameplate_lowpoly_001
+[2024.04.27-08.20.48:862][854]LogStaticMesh: Building static mesh untitled_buckles_lowpoly_001...
+[2024.04.27-08.20.48:869][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_buckles_lowpoly_001.untitled_buckles_lowpoly_001
+[2024.04.27-08.20.48:877][854]LogStaticMesh: Building static mesh untitled_gastankstraps_lowpoly2_001...
+[2024.04.27-08.20.48:883][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_gastankstraps_lowpoly2_001.untitled_gastankstraps_lowpoly2_001
+[2024.04.27-08.20.48:893][854]LogStaticMesh: Building static mesh untitled_RadioPocket_lowpoly...
+[2024.04.27-08.20.48:901][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_RadioPocket_lowpoly.untitled_RadioPocket_lowpoly
+[2024.04.27-08.20.48:908][854]LogFbx: Display: Triangulating static mesh nametag_lowpoly.001
+[2024.04.27-08.20.48:913][854]LogStaticMesh: Building static mesh untitled_nametag_lowpoly_001...
+[2024.04.27-08.20.48:915][854]LogStaticMesh: Built static mesh [0.00s] /Game/assets/untitled_nametag_lowpoly_001.untitled_nametag_lowpoly_001
+[2024.04.27-08.20.48:922][854]LogStaticMesh: Building static mesh untitled_buckles_lowpoly6_001...
+[2024.04.27-08.20.48:930][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_buckles_lowpoly6_001.untitled_buckles_lowpoly6_001
+[2024.04.27-08.20.48:939][854]LogStaticMesh: Building static mesh untitled_gastankstraps_lowpoly3_001...
+[2024.04.27-08.20.48:944][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_gastankstraps_lowpoly3_001.untitled_gastankstraps_lowpoly3_001
+[2024.04.27-08.20.48:953][854]LogStaticMesh: Building static mesh untitled_flashlightholster_lowpoly_001...
+[2024.04.27-08.20.48:960][854]LogStaticMesh: Built static mesh [0.01s] /Game/assets/untitled_flashlightholster_lowpoly_001.untitled_flashlightholster_lowpoly_001
+[2024.04.27-08.20.48:969][854]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\burak\Desktop\pura game jam\karakter\source\textures\LCInsignia.png
+[2024.04.27-08.20.48:971][854]LogMaterial: Display: Missing cached shadermap for LCInsignia in PCD3D_SM5, Default, SM5 (DDC key hash: 2CF13BFD8EEF2EDB518829D2A200F55CEB7BD79B), compiling. 
+[2024.04.27-08.20.48:973][854]LogFbx: Display: Triangulating static mesh NameTag
+[2024.04.27-08.20.48:975][854]LogStaticMesh: Building static mesh untitled_NameTag...
+[2024.04.27-08.20.48:977][854]LogStaticMesh: Built static mesh [0.00s] /Game/assets/untitled_NameTag.untitled_NameTag
+[2024.04.27-08.20.49:121][854]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'LCInsignia' was renamed 'LCInsignia_ncl1_1' 
+[2024.04.27-08.20.49:121][854]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'LCInsignia' was renamed 'LCInsignia_ncl1_2' 
+[2024.04.27-08.20.49:121][854]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.27-08.20.49:185][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_BaseColor.tga.png)
+[2024.04.27-08.20.49:653][854]LogTexture: Display: Building textures: LCBase_BaseColor_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.20.50:802][854]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.50:802][854]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.50:802][854]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.50:821][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Metallic.tga.png)
+[2024.04.27-08.20.50:894][854]LogTexture: Display: Building textures: LCBase_Metallic_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.20.51:631][854]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.51:631][854]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.51:631][854]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.51:690][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Normal.tga.png)
+[2024.04.27-08.20.52:241][854]LogTexture: Display: Building textures: LCBase_Normal_tga (OODLE_BC5, 4096X4096)
+[2024.04.27-08.20.52:751][854]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.20.52:751][854]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.20.52:751][854]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.20.52:800][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Roughness.tga.png)
+[2024.04.27-08.20.52:989][854]LogTexture: Display: Building textures: LCBase_Roughness_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.20.54:462][854]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.54:462][854]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.54:462][854]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.20.54:485][854]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCInsignia.png)
+[2024.04.27-08.20.54:492][854]LogTexture: Display: Building textures: LCInsignia (OODLE_AutoDXT, 512X1024)
+[2024.04.27-08.20.54:686][854]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.27-08.20.54:767][854]LogSlate: Took 0.007722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.27-08.20.54:807][856]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.20.54:823][857]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.20.54:823][857]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.20.54:823][857]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.20.54:850][857]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.04.27-08.20.54:850][857]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.04.27-08.20.54:850][857]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2024.04.27-08.20.54:850][857]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.20.55:114][857]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.20.55:130][857]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.04.27-08.20.55:817][876]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2024.04.27-08.20.55:817][876]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.20.55:825][876]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.27-08.20.55:825][876]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2024.04.27-08.20.55:825][876]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.04.27-08.20.55:825][876]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2024.04.27-08.20.55:825][876]LogShaderCompilers: Display: ================================================
+[2024.04.27-08.20.56:795][921]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.04.27-08.20.56:795][921]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.20.56:799][921]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2024.04.27-08.20.56:799][921]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.20.57:039][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2024.04.27-08.20.57:040][928]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.20.57:495][942]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2024.04.27-08.20.57:495][942]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.20.57:724][948]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2024.04.27-08.20.57:724][948]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.00:671][ 78]LogSlate: Window 'Message Log' being destroyed
+[2024.04.27-08.21.00:690][ 78]LogSlate: Window 'Message Log' being destroyed
+[2024.04.27-08.21.01:392][110]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2024.04.27-08.21.01:393][110]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.01:869][126]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2024.04.27-08.21.01:869][126]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.03:186][173]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2024.04.27-08.21.03:186][173]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.03:713][194]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.21.03:713][194]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.04.27-08.21.03:713][194]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.24:186][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.27-08.21.25:231][985]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.27-08.21.25:350][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.27-08.21.39:990][463]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter/source/LCEmployeeDotflare.fbx)
+[2024.04.27-08.21.40:017][463]LogFbx: Loading FBX Scene from C:\Users\burak\Desktop\pura game jam\karakter/source/LCEmployeeDotflare.fbx
+[2024.04.27-08.21.40:402][463]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.27-08.21.43:472][463]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.27-08.21.43:779][463]LogFbx: Valid bind pose for Pose (Cylinder.021) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:779][463]LogFbx: Valid bind pose for Pose (Cylinder.022) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:780][463]LogFbx: Valid bind pose for Pose (bed.003) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:781][463]LogFbx: Valid bind pose for Pose (Cube.028) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:782][463]LogFbx: Valid bind pose for Pose (Cube.029) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:783][463]LogFbx: Valid bind pose for Pose (Cube.030) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:783][463]LogFbx: Valid bind pose for Pose (Cube.031) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:784][463]LogFbx: Valid bind pose for Pose (Cube.032) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:784][463]LogFbx: Valid bind pose for Pose (Cube.033) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:785][463]LogFbx: Valid bind pose for Pose (Cube.034) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:785][463]LogFbx: Valid bind pose for Pose (Cube.035) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:786][463]LogFbx: Valid bind pose for Pose (Cylinder.023) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:786][463]LogFbx: Valid bind pose for Pose (BezierCircle.001) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:787][463]LogFbx: Valid bind pose for Pose (BezierCircle.002) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:787][463]LogFbx: Valid bind pose for Pose (Cube.036) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:789][463]LogFbx: Valid bind pose for Pose (Cube.037) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:789][463]LogFbx: Valid bind pose for Pose (Plane.025) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:789][463]LogFbx: Valid bind pose for Pose (Plane.026) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:789][463]LogFbx: Valid bind pose for Pose (Plane.027) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:790][463]LogFbx: Valid bind pose for Pose (Plane.028) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:790][463]LogFbx: Valid bind pose for Pose (Cube.038) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:790][463]LogFbx: Valid bind pose for Pose (Plane.029) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:791][463]LogFbx: Valid bind pose for Pose (Cylinder.024) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:791][463]LogFbx: Valid bind pose for Pose (BezierCircle.004) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:792][463]LogFbx: Valid bind pose for Pose (BezierCircle.005) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:792][463]LogFbx: Valid bind pose for Pose (Cube.039) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:793][463]LogFbx: Valid bind pose for Pose (Cube.040) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:793][463]LogFbx: Valid bind pose for Pose (Cylinder.025) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:793][463]LogFbx: Valid bind pose for Pose (Cylinder.026) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:794][463]LogFbx: Valid bind pose for Pose (Plane.030) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:795][463]LogFbx: Valid bind pose for Pose (Cube.041) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:795][463]LogFbx: Valid bind pose for Pose (NurbsPath) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:796][463]LogFbx: Valid bind pose for Pose (RetopoFlow.001) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:796][463]LogFbx: Valid bind pose for Pose (Plane.017) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:796][463]LogFbx: Valid bind pose for Pose (Plane.020) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:797][463]LogFbx: Valid bind pose for Pose (Plane.031) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:797][463]LogFbx: Valid bind pose for Pose (Cylinder.027) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:797][463]LogFbx: Valid bind pose for Pose (Plane.032) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:797][463]LogFbx: Valid bind pose for Pose (Cylinder.028) - headbutton_lowpoly_001
+[2024.04.27-08.21.43:799][463]LogFbx: Valid bind pose for Pose (Cylinder.029) - headbutton_lowpoly_001
+[2024.04.27-08.21.44:442][463]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'LCInsignia' was renamed 'LCInsignia_ncl1_1' 
+[2024.04.27-08.21.44:442][463]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'LCInsignia' was renamed 'LCInsignia_ncl1_2' 
+[2024.04.27-08.21.44:442][463]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.27-08.21.44:443][463]FBXImport: Error: Multiple roots are found in the bone hierarchy. We only support single root bone. 
+[2024.04.27-08.21.44:443][463]FBXImport: Warning: Get Import Data has failed. 
+[2024.04.27-08.21.44:443][463]FBXImport: Error: Import failed. 
+[2024.04.27-08.21.47:802][463]LogSlate: Window 'Message' being destroyed
+[2024.04.27-08.21.47:814][463]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\burak\Desktop\pura game jam\karakter/source/LCEmployeeDotflare.fbx'. Failed to create asset '/Game/assets/karakter/source/LCEmployeeDotflare'.
+Please see Output Log for details.
+[2024.04.27-08.21.47:815][463]LogAssetTools: Warning: Failed to import 'C:\Users\burak\Desktop\pura game jam\karakter/source/LCEmployeeDotflare.fbx'. Failed to create asset '/Game/assets/karakter/source/LCEmployeeDotflare'.
+Please see Output Log for details.
+[2024.04.27-08.21.47:850][463]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter/textures/LCBase_BaseColor.tga.png)
+[2024.04.27-08.21.48:301][463]LogTexture: Display: Building textures: LCBase_BaseColor_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.21.49:384][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.49:384][463]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.49:384][463]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.49:409][463]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter/textures/LCBase_Metallic.tga.png)
+[2024.04.27-08.21.49:472][463]LogTexture: Display: Building textures: LCBase_Metallic_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.21.50:170][463]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.50:170][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.50:170][463]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.50:203][463]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter/textures/LCBase_Normal.tga.png)
+[2024.04.27-08.21.50:721][463]LogTexture: Display: Building textures: LCBase_Normal_tga (OODLE_BC5, 4096X4096)
+[2024.04.27-08.21.51:217][463]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.21.51:217][463]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.21.51:217][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.21.51:259][463]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter/textures/LCBase_Roughness.tga.png)
+[2024.04.27-08.21.51:443][463]LogTexture: Display: Building textures: LCBase_Roughness_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.21.53:074][463]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.53:075][463]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.53:075][463]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.21.53:091][463]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter/textures/LCInsignia.png)
+[2024.04.27-08.21.53:102][463]LogTexture: Display: Building textures: LCInsignia (OODLE_AutoDXT, 512X1024)
+[2024.04.27-08.21.53:134][463]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.27-08.21.53:134][463]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter/untitled.fbx)
+[2024.04.27-08.21.53:151][463]LogFbx: Loading FBX Scene from C:\Users\burak\Desktop\pura game jam\karakter/untitled.fbx
+[2024.04.27-08.21.53:209][463]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.27-08.21.53:213][463]LogMaterial: Display: Material /Game/assets/karakter/LCBase.LCBase needed to have new flag set bUsedWithSkeletalMesh !
+[2024.04.27-08.21.53:214][463]LogMaterial: Display: Missing cached shadermap for LCBase in PCD3D_SM5, Default, SM5 (DDC key hash: 514336B674D1BEFF97B450EE89BCCD45BE07DE0D), compiling. 
+[2024.04.27-08.21.53:246][463]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.04.27-08.21.53:250][463]LogMaterial: Display: Missing cached shadermap for LCBase in PCD3D_SM5, Default, SM5 (DDC key hash: 61E39D16B77EBBC5393801C4D544E57205C32AD9), compiling. 
+[2024.04.27-08.21.53:259][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:296][463]LogSkeletalMesh: Section 0: Material=0, 962 triangles
+[2024.04.27-08.21.53:302][463]LogSkeletalMesh: Building Skeletal Mesh untitled_head_lowpoly_001...
+[2024.04.27-08.21.53:327][463]LogSkeletalMesh: Section 0: Material=0, 962 triangles
+[2024.04.27-08.21.53:330][463]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/assets/karakter/untitled.untitled_head_lowpoly_001
+[2024.04.27-08.21.53:349][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:349][463]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:349][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:357][463]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:358][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:375][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:447][463]LogSkeletalMesh: Section 0: Material=0, 2880 triangles
+[2024.04.27-08.21.53:452][463]LogSkeletalMesh: Building Skeletal Mesh untitled_gastank_lowpoly_001...
+[2024.04.27-08.21.53:519][463]LogSkeletalMesh: Section 0: Material=0, 2880 triangles
+[2024.04.27-08.21.53:524][463]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/assets/karakter/untitled.untitled_gastank_lowpoly_001
+[2024.04.27-08.21.53:529][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:529][463]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:529][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:533][463]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:534][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:545][463]LogFbx: Triangulating skeletal mesh shoesoles1_lowpoly1.001
+[2024.04.27-08.21.53:559][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:569][463]LogSkeletalMesh: Section 0: Material=0, 544 triangles
+[2024.04.27-08.21.53:572][463]LogSkeletalMesh: Building Skeletal Mesh untitled_shoesoles1_lowpoly1_001...
+[2024.04.27-08.21.53:580][463]LogSkeletalMesh: Section 0: Material=0, 544 triangles
+[2024.04.27-08.21.53:581][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_shoesoles1_lowpoly1_001
+[2024.04.27-08.21.53:590][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:590][463]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:590][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:595][463]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:596][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:603][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:636][463]LogSkeletalMesh: Section 0: Material=0, 1568 triangles
+[2024.04.27-08.21.53:640][463]LogSkeletalMesh: Building Skeletal Mesh untitled_boots_lowpoly2_001...
+[2024.04.27-08.21.53:669][463]LogSkeletalMesh: Section 0: Material=0, 1568 triangles
+[2024.04.27-08.21.53:669][463]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/assets/karakter/untitled.untitled_boots_lowpoly2_001
+[2024.04.27-08.21.53:675][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:675][463]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:675][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:680][463]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:681][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:690][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:697][463]LogSkeletalMesh: Section 0: Material=0, 448 triangles
+[2024.04.27-08.21.53:708][463]LogSkeletalMesh: Building Skeletal Mesh untitled_flashlightleather_lowpoly_001...
+[2024.04.27-08.21.53:715][463]LogSkeletalMesh: Section 0: Material=0, 448 triangles
+[2024.04.27-08.21.53:715][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_flashlightleather_lowpoly_001
+[2024.04.27-08.21.53:721][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:721][463]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:721][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:726][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:726][463]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:726][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:738][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.27-08.21.53:759][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.27-08.21.53:762][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:776][463]LogSkeletalMesh: Section 0: Material=0, 800 triangles
+[2024.04.27-08.21.53:779][463]LogSkeletalMesh: Building Skeletal Mesh untitled_gastank_lowpoly_002...
+[2024.04.27-08.21.53:793][463]LogSkeletalMesh: Section 0: Material=0, 800 triangles
+[2024.04.27-08.21.53:795][463]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/assets/karakter/untitled.untitled_gastank_lowpoly_002
+[2024.04.27-08.21.53:799][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:799][463]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:799][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:804][463]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:804][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:809][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:821][463]LogSkeletalMesh: Section 0: Material=0, 628 triangles
+[2024.04.27-08.21.53:825][463]LogSkeletalMesh: Building Skeletal Mesh untitled_head1_lowpoly_001...
+[2024.04.27-08.21.53:836][463]LogSkeletalMesh: Section 0: Material=0, 628 triangles
+[2024.04.27-08.21.53:837][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_head1_lowpoly_001
+[2024.04.27-08.21.53:842][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:842][463]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:842][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:849][463]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:849][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:854][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:859][463]LogSkeletalMesh: Section 0: Material=0, 174 triangles
+[2024.04.27-08.21.53:862][463]LogSkeletalMesh: Building Skeletal Mesh untitled_buckles_lowpoly5_001...
+[2024.04.27-08.21.53:865][463]LogSkeletalMesh: Section 0: Material=0, 174 triangles
+[2024.04.27-08.21.53:866][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_buckles_lowpoly5_001
+[2024.04.27-08.21.53:871][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:871][463]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:872][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:877][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:877][463]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:877][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:888][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.04.27-08.21.53:900][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.27-08.21.53:902][463]LogFbx: Triangulating skeletal mesh shoesoles_lowpoly2.001
+[2024.04.27-08.21.53:921][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.53:932][463]LogSkeletalMesh: Section 0: Material=0, 528 triangles
+[2024.04.27-08.21.53:935][463]LogSkeletalMesh: Building Skeletal Mesh untitled_shoesoles_lowpoly2_001...
+[2024.04.27-08.21.53:942][463]LogSkeletalMesh: Section 0: Material=0, 528 triangles
+[2024.04.27-08.21.53:942][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_shoesoles_lowpoly2_001
+[2024.04.27-08.21.53:946][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.53:946][463]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:947][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.53:950][463]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.53:950][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:019][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:043][463]LogSkeletalMesh: Section 0: Material=0, 792 triangles
+[2024.04.27-08.21.54:049][463]LogSkeletalMesh: Building Skeletal Mesh untitled_valve_lowpoly_001...
+[2024.04.27-08.21.54:068][463]LogSkeletalMesh: Section 0: Material=0, 792 triangles
+[2024.04.27-08.21.54:069][463]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/assets/karakter/untitled.untitled_valve_lowpoly_001
+[2024.04.27-08.21.54:074][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:074][463]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:074][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:078][463]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:078][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:084][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:092][463]LogSkeletalMesh: Section 0: Material=0, 416 triangles
+[2024.04.27-08.21.54:095][463]LogSkeletalMesh: Building Skeletal Mesh untitled_flashlightpouch_lowpoly_001...
+[2024.04.27-08.21.54:103][463]LogSkeletalMesh: Section 0: Material=0, 416 triangles
+[2024.04.27-08.21.54:104][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_flashlightpouch_lowpoly_001
+[2024.04.27-08.21.54:109][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:109][463]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:109][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:112][463]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:113][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:122][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:131][463]LogSkeletalMesh: Section 0: Material=0, 396 triangles
+[2024.04.27-08.21.54:135][463]LogSkeletalMesh: Building Skeletal Mesh untitled_valve_lowpoly_002...
+[2024.04.27-08.21.54:145][463]LogSkeletalMesh: Section 0: Material=0, 396 triangles
+[2024.04.27-08.21.54:146][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_valve_lowpoly_002
+[2024.04.27-08.21.54:150][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:150][463]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:150][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:153][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:153][463]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:153][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:164][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.27-08.21.54:176][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.27-08.21.54:178][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:189][463]LogSkeletalMesh: Section 0: Material=0, 432 triangles
+[2024.04.27-08.21.54:193][463]LogSkeletalMesh: Building Skeletal Mesh untitled_filter_lowpoly_001...
+[2024.04.27-08.21.54:202][463]LogSkeletalMesh: Section 0: Material=0, 432 triangles
+[2024.04.27-08.21.54:202][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_filter_lowpoly_001
+[2024.04.27-08.21.54:208][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:208][463]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:208][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:212][463]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:213][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:219][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:220][463]LogSkeletalMesh: Section 0: Material=0, 40 triangles
+[2024.04.27-08.21.54:224][463]LogSkeletalMesh: Building Skeletal Mesh untitled_buckles_lowpoly3_001...
+[2024.04.27-08.21.54:225][463]LogSkeletalMesh: Section 0: Material=0, 40 triangles
+[2024.04.27-08.21.54:225][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_buckles_lowpoly3_001
+[2024.04.27-08.21.54:230][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:230][463]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:230][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:233][463]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:233][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:238][463]LogFbx: Triangulating skeletal mesh shoesoles_lowpoly.001
+[2024.04.27-08.21.54:244][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:250][463]LogSkeletalMesh: Section 0: Material=0, 308 triangles
+[2024.04.27-08.21.54:254][463]LogSkeletalMesh: Building Skeletal Mesh untitled_shoesoles_lowpoly_001...
+[2024.04.27-08.21.54:259][463]LogSkeletalMesh: Section 0: Material=0, 308 triangles
+[2024.04.27-08.21.54:259][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_shoesoles_lowpoly_001
+[2024.04.27-08.21.54:263][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:263][463]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:263][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:268][463]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:268][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:273][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:286][463]LogSkeletalMesh: Section 0: Material=0, 812 triangles
+[2024.04.27-08.21.54:290][463]LogSkeletalMesh: Building Skeletal Mesh untitled_flashlight_lowpoly_001...
+[2024.04.27-08.21.54:302][463]LogSkeletalMesh: Section 0: Material=0, 812 triangles
+[2024.04.27-08.21.54:303][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_flashlight_lowpoly_001
+[2024.04.27-08.21.54:309][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_32:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:309][463]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:309][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:315][463]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:315][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:327][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:403][463]LogSkeletalMesh: Section 0: Material=0, 3894 triangles
+[2024.04.27-08.21.54:407][463]LogSkeletalMesh: Building Skeletal Mesh untitled_hand_lowpoly...
+[2024.04.27-08.21.54:475][463]LogSkeletalMesh: Section 0: Material=0, 3894 triangles
+[2024.04.27-08.21.54:481][463]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/assets/karakter/untitled.untitled_hand_lowpoly
+[2024.04.27-08.21.54:486][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:486][463]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:486][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:490][463]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:490][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:499][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:500][463]LogSkeletalMesh: Section 0: Material=0, 24 triangles
+[2024.04.27-08.21.54:503][463]LogSkeletalMesh: Building Skeletal Mesh untitled_gastank_lowpoly_003...
+[2024.04.27-08.21.54:504][463]LogSkeletalMesh: Section 0: Material=0, 24 triangles
+[2024.04.27-08.21.54:504][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_gastank_lowpoly_003
+[2024.04.27-08.21.54:507][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_36:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:507][463]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:507][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:511][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_37:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:511][463]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:512][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:521][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.27-08.21.54:537][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.27-08.21.54:540][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:546][463]LogSkeletalMesh: Section 0: Material=0, 464 triangles
+[2024.04.27-08.21.54:552][463]LogSkeletalMesh: Building Skeletal Mesh untitled_headbutton_lowpoly_001...
+[2024.04.27-08.21.54:557][463]LogSkeletalMesh: Section 0: Material=0, 464 triangles
+[2024.04.27-08.21.54:558][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_headbutton_lowpoly_001
+[2024.04.27-08.21.54:563][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:564][463]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:564][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:568][463]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:568][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:573][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:573][463]LogSkeletalMesh: Section 0: Material=0, 32 triangles
+[2024.04.27-08.21.54:576][463]LogSkeletalMesh: Building Skeletal Mesh untitled_buckles_lowpoly1_001...
+[2024.04.27-08.21.54:577][463]LogSkeletalMesh: Section 0: Material=0, 32 triangles
+[2024.04.27-08.21.54:577][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_buckles_lowpoly1_001
+[2024.04.27-08.21.54:581][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_40:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:581][463]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:581][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:586][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_41:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:586][463]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:586][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:594][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.27-08.21.54:606][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.27-08.21.54:607][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:615][463]LogSkeletalMesh: Section 0: Material=0, 316 triangles
+[2024.04.27-08.21.54:619][463]LogSkeletalMesh: Building Skeletal Mesh untitled_toolbelt_lowpoly_001...
+[2024.04.27-08.21.54:623][463]LogSkeletalMesh: Section 0: Material=0, 316 triangles
+[2024.04.27-08.21.54:623][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_toolbelt_lowpoly_001
+[2024.04.27-08.21.54:629][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_42:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:629][463]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:629][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:632][463]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:632][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:637][463]LogFbx: Triangulating skeletal mesh cheststraps1_lowpoly.001
+[2024.04.27-08.21.54:660][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:682][463]LogSkeletalMesh: Section 0: Material=0, 1344 triangles
+[2024.04.27-08.21.54:685][463]LogSkeletalMesh: Building Skeletal Mesh untitled_cheststraps1_lowpoly_001...
+[2024.04.27-08.21.54:706][463]LogSkeletalMesh: Section 0: Material=0, 1344 triangles
+[2024.04.27-08.21.54:708][463]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/assets/karakter/untitled.untitled_cheststraps1_lowpoly_001
+[2024.04.27-08.21.54:713][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_44:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:713][463]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:713][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:719][463]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:719][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:723][463]LogFbx: Triangulating skeletal mesh tubes_lowpoly
+[2024.04.27-08.21.54:763][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:807][463]LogSkeletalMesh: Section 0: Material=0, 2352 triangles
+[2024.04.27-08.21.54:811][463]LogSkeletalMesh: Building Skeletal Mesh untitled_tubes_lowpoly...
+[2024.04.27-08.21.54:851][463]LogSkeletalMesh: Section 0: Material=0, 2352 triangles
+[2024.04.27-08.21.54:853][463]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/assets/karakter/untitled.untitled_tubes_lowpoly
+[2024.04.27-08.21.54:859][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_46:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:859][463]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:859][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:865][463]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:865][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:873][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:876][463]LogSkeletalMesh: Section 0: Material=0, 120 triangles
+[2024.04.27-08.21.54:879][463]LogSkeletalMesh: Building Skeletal Mesh untitled_gastankscrew_lowpoly_004...
+[2024.04.27-08.21.54:881][463]LogSkeletalMesh: Section 0: Material=0, 120 triangles
+[2024.04.27-08.21.54:882][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_gastankscrew_lowpoly_004
+[2024.04.27-08.21.54:886][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_48:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:887][463]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:887][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:891][463]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:891][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:895][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:897][463]LogSkeletalMesh: Section 0: Material=0, 32 triangles
+[2024.04.27-08.21.54:901][463]LogSkeletalMesh: Building Skeletal Mesh untitled_buckles_lowpoly2_001...
+[2024.04.27-08.21.54:901][463]LogSkeletalMesh: Section 0: Material=0, 32 triangles
+[2024.04.27-08.21.54:902][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_buckles_lowpoly2_001
+[2024.04.27-08.21.54:907][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:907][463]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:907][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:912][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_51:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:912][463]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:912][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:922][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.27-08.21.54:934][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.27-08.21.54:935][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.54:942][463]LogSkeletalMesh: Section 0: Material=0, 312 triangles
+[2024.04.27-08.21.54:945][463]LogSkeletalMesh: Building Skeletal Mesh untitled_toolbelt1_lowpoly2_001...
+[2024.04.27-08.21.54:950][463]LogSkeletalMesh: Section 0: Material=0, 312 triangles
+[2024.04.27-08.21.54:951][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_toolbelt1_lowpoly2_001
+[2024.04.27-08.21.54:955][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_52:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:956][463]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:956][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:961][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_53:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.54:962][463]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.54:962][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.54:971][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.27-08.21.54:983][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.27-08.21.54:985][463]LogFbx: Triangulating skeletal mesh cheststraps_lowpoly.001
+[2024.04.27-08.21.55:011][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:037][463]LogSkeletalMesh: Section 0: Material=0, 1568 triangles
+[2024.04.27-08.21.55:041][463]LogSkeletalMesh: Building Skeletal Mesh untitled_cheststraps_lowpoly_001...
+[2024.04.27-08.21.55:063][463]LogSkeletalMesh: Section 0: Material=0, 1568 triangles
+[2024.04.27-08.21.55:064][463]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/assets/karakter/untitled.untitled_cheststraps_lowpoly_001
+[2024.04.27-08.21.55:069][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_54:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:069][463]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:069][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:072][463]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:073][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:093][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:299][463]LogSkeletalMesh: Section 0: Material=0, 9528 triangles
+[2024.04.27-08.21.55:302][463]LogSkeletalMesh: Building Skeletal Mesh untitled_body_lowpoly...
+[2024.04.27-08.21.55:489][463]LogSkeletalMesh: Section 0: Material=0, 9528 triangles
+[2024.04.27-08.21.55:506][463]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/assets/karakter/untitled.untitled_body_lowpoly
+[2024.04.27-08.21.55:511][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_56:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:511][463]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:512][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:517][463]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:518][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:529][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:532][463]LogSkeletalMesh: Section 0: Material=0, 196 triangles
+[2024.04.27-08.21.55:536][463]LogSkeletalMesh: Building Skeletal Mesh untitled_buckles_lowpoly4_001...
+[2024.04.27-08.21.55:540][463]LogSkeletalMesh: Section 0: Material=0, 196 triangles
+[2024.04.27-08.21.55:540][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_buckles_lowpoly4_001
+[2024.04.27-08.21.55:546][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_58:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:546][463]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:546][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:549][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_59:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:549][463]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:549][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:559][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.27-08.21.55:572][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.27-08.21.55:574][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:580][463]LogSkeletalMesh: Section 0: Material=0, 312 triangles
+[2024.04.27-08.21.55:585][463]LogSkeletalMesh: Building Skeletal Mesh untitled_toolbelt1_lowpoly1_001...
+[2024.04.27-08.21.55:591][463]LogSkeletalMesh: Section 0: Material=0, 312 triangles
+[2024.04.27-08.21.55:592][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_toolbelt1_lowpoly1_001
+[2024.04.27-08.21.55:597][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_60:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:597][463]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:597][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:603][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_61:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:603][463]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:604][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:612][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.27-08.21.55:623][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.27-08.21.55:626][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:636][463]LogSkeletalMesh: Section 0: Material=0, 636 triangles
+[2024.04.27-08.21.55:640][463]LogSkeletalMesh: Building Skeletal Mesh untitled_Radio_lowpoly_001...
+[2024.04.27-08.21.55:652][463]LogSkeletalMesh: Section 0: Material=0, 636 triangles
+[2024.04.27-08.21.55:653][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_Radio_lowpoly_001
+[2024.04.27-08.21.55:657][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_62:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:657][463]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:657][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:662][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_63:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:663][463]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:663][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:671][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.27-08.21.55:683][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.27-08.21.55:694][463]LogFbx: Triangulating skeletal mesh nameplate_lowpoly.001
+[2024.04.27-08.21.55:695][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:696][463]LogSkeletalMesh: Section 0: Material=0, 40 triangles
+[2024.04.27-08.21.55:700][463]LogSkeletalMesh: Building Skeletal Mesh untitled_nameplate_lowpoly_001...
+[2024.04.27-08.21.55:701][463]LogSkeletalMesh: Section 0: Material=0, 40 triangles
+[2024.04.27-08.21.55:701][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_nameplate_lowpoly_001
+[2024.04.27-08.21.55:706][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_64:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:707][463]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:707][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:710][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_65:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:710][463]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:710][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:719][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.27-08.21.55:731][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.27-08.21.55:732][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:737][463]LogSkeletalMesh: Section 0: Material=0, 174 triangles
+[2024.04.27-08.21.55:741][463]LogSkeletalMesh: Building Skeletal Mesh untitled_buckles_lowpoly_001...
+[2024.04.27-08.21.55:745][463]LogSkeletalMesh: Section 0: Material=0, 174 triangles
+[2024.04.27-08.21.55:745][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_buckles_lowpoly_001
+[2024.04.27-08.21.55:749][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_66:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:749][463]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:749][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:752][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_67:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:752][463]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:752][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:761][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.27-08.21.55:772][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.27-08.21.55:775][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:780][463]LogSkeletalMesh: Section 0: Material=0, 336 triangles
+[2024.04.27-08.21.55:783][463]LogSkeletalMesh: Building Skeletal Mesh untitled_gastankstraps_lowpoly2_001...
+[2024.04.27-08.21.55:788][463]LogSkeletalMesh: Section 0: Material=0, 336 triangles
+[2024.04.27-08.21.55:790][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_gastankstraps_lowpoly2_001
+[2024.04.27-08.21.55:794][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_68:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:794][463]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:794][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:799][463]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:799][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:804][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:813][463]LogSkeletalMesh: Section 0: Material=0, 448 triangles
+[2024.04.27-08.21.55:816][463]LogSkeletalMesh: Building Skeletal Mesh untitled_RadioPocket_lowpoly...
+[2024.04.27-08.21.55:824][463]LogSkeletalMesh: Section 0: Material=0, 448 triangles
+[2024.04.27-08.21.55:825][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_RadioPocket_lowpoly
+[2024.04.27-08.21.55:830][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_70:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:830][463]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:830][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:834][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_71:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:835][463]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:835][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:844][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.27-08.21.55:856][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.27-08.21.55:858][463]LogFbx: Triangulating skeletal mesh nametag_lowpoly.001
+[2024.04.27-08.21.55:859][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:861][463]LogSkeletalMesh: Section 0: Material=0, 52 triangles
+[2024.04.27-08.21.55:864][463]LogSkeletalMesh: Building Skeletal Mesh untitled_nametag_lowpoly_001...
+[2024.04.27-08.21.55:866][463]LogSkeletalMesh: Section 0: Material=0, 52 triangles
+[2024.04.27-08.21.55:867][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_nametag_lowpoly_001
+[2024.04.27-08.21.55:873][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_72:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:873][463]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:873][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:877][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_73:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:877][463]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:877][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:887][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.27-08.21.55:899][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.27-08.21.55:901][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:904][463]LogSkeletalMesh: Section 0: Material=0, 174 triangles
+[2024.04.27-08.21.55:907][463]LogSkeletalMesh: Building Skeletal Mesh untitled_buckles_lowpoly6_001...
+[2024.04.27-08.21.55:911][463]LogSkeletalMesh: Section 0: Material=0, 174 triangles
+[2024.04.27-08.21.55:911][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_buckles_lowpoly6_001
+[2024.04.27-08.21.55:917][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_74:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:917][463]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:918][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:921][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_75:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:921][463]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:921][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:931][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.27-08.21.55:943][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.27-08.21.55:944][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:951][463]LogSkeletalMesh: Section 0: Material=0, 336 triangles
+[2024.04.27-08.21.55:954][463]LogSkeletalMesh: Building Skeletal Mesh untitled_gastankstraps_lowpoly3_001...
+[2024.04.27-08.21.55:959][463]LogSkeletalMesh: Section 0: Material=0, 336 triangles
+[2024.04.27-08.21.55:959][463]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/assets/karakter/untitled.untitled_gastankstraps_lowpoly3_001
+[2024.04.27-08.21.55:963][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_76:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:963][463]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:963][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:967][463]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:967][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:972][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.55:977][463]LogSkeletalMesh: Section 0: Material=0, 284 triangles
+[2024.04.27-08.21.55:981][463]LogSkeletalMesh: Building Skeletal Mesh untitled_flashlightholster_lowpoly_001...
+[2024.04.27-08.21.55:984][463]LogSkeletalMesh: Section 0: Material=0, 284 triangles
+[2024.04.27-08.21.55:985][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_flashlightholster_lowpoly_001
+[2024.04.27-08.21.55:990][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:990][463]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:990][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.55:994][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_79:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.55:994][463]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.55:994][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.56:002][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.27-08.21.56:014][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.27-08.21.56:016][463]LogMaterial: Display: Material /Game/assets/karakter/LCInsignia.LCInsignia needed to have new flag set bUsedWithSkeletalMesh !
+[2024.04.27-08.21.56:018][463]LogMaterial: Display: Missing cached shadermap for LCInsignia in PCD3D_SM5, Default, SM5 (DDC key hash: F0F8A6A3808AE958AC566021E3D0FEA578DE3424), compiling. 
+[2024.04.27-08.21.56:045][463]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.04.27-08.21.56:047][463]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\burak\Desktop\pura game jam\karakter\source\textures\LCInsignia.png
+[2024.04.27-08.21.56:051][463]LogMaterial: Display: Missing cached shadermap for LCInsignia in PCD3D_SM5, Default, SM5 (DDC key hash: DAF144AB794EE0385031584215C2AE95FBA53EAA), compiling. 
+[2024.04.27-08.21.56:054][463]LogFbx: Triangulating skeletal mesh NameTag
+[2024.04.27-08.21.56:055][463]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2024.04.27-08.21.56:055][463]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2024.04.27-08.21.56:059][463]LogSkeletalMesh: Building Skeletal Mesh untitled_NameTag...
+[2024.04.27-08.21.56:059][463]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2024.04.27-08.21.56:059][463]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/assets/karakter/untitled.untitled_NameTag
+[2024.04.27-08.21.56:064][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_80:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.56:064][463]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.56:064][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.56:069][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_81:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.27-08.21.56:069][463]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.21.56:069][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.21.56:077][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.27-08.21.56:088][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.27-08.21.56:103][463]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'LCInsignia' was renamed 'LCInsignia_ncl1_1' 
+[2024.04.27-08.21.56:103][463]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'LCInsignia' was renamed 'LCInsignia_ncl1_2' 
+[2024.04.27-08.21.56:103][463]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.27-08.21.56:103][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:103][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_flashlightleather_lowpoly_001_PhysicsAsset' from Skeletal Mesh 'untitled_flashlightleather_lowpoly_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_buckles_lowpoly5_001_PhysicsAsset' from Skeletal Mesh 'untitled_buckles_lowpoly5_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_valve_lowpoly_002_PhysicsAsset' from Skeletal Mesh 'untitled_valve_lowpoly_002'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_gastank_lowpoly_003_PhysicsAsset' from Skeletal Mesh 'untitled_gastank_lowpoly_003'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_buckles_lowpoly1_001_PhysicsAsset' from Skeletal Mesh 'untitled_buckles_lowpoly1_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_buckles_lowpoly2_001_PhysicsAsset' from Skeletal Mesh 'untitled_buckles_lowpoly2_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_toolbelt1_lowpoly2_001_PhysicsAsset' from Skeletal Mesh 'untitled_toolbelt1_lowpoly2_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_buckles_lowpoly4_001_PhysicsAsset' from Skeletal Mesh 'untitled_buckles_lowpoly4_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_toolbelt1_lowpoly1_001_PhysicsAsset' from Skeletal Mesh 'untitled_toolbelt1_lowpoly1_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_Radio_lowpoly_001_PhysicsAsset' from Skeletal Mesh 'untitled_Radio_lowpoly_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_nameplate_lowpoly_001_PhysicsAsset' from Skeletal Mesh 'untitled_nameplate_lowpoly_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_buckles_lowpoly_001_PhysicsAsset' from Skeletal Mesh 'untitled_buckles_lowpoly_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_RadioPocket_lowpoly_PhysicsAsset' from Skeletal Mesh 'untitled_RadioPocket_lowpoly'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_nametag_lowpoly_001_PhysicsAsset' from Skeletal Mesh 'untitled_nametag_lowpoly_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_buckles_lowpoly6_001_PhysicsAsset' from Skeletal Mesh 'untitled_buckles_lowpoly6_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_flashlightholster_lowpoly_001_PhysicsAsset' from Skeletal Mesh 'untitled_flashlightholster_lowpoly_001'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.04.27-08.21.56:104][463]FBXImport: Warning: The bone size is too small to create Physics Asset 'untitled_NameTag_PhysicsAsset' from Skeletal Mesh 'untitled_NameTag'. You will have to create physics asset manually. 
+[2024.04.27-08.21.56:391][465]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.21.56:391][465]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.21.56:391][465]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.21.56:391][465]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.21.56:589][465]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.04.27-08.21.56:590][465]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.56:590][465]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2024.04.27-08.21.56:590][465]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.56:823][468]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.57:526][492]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2024.04.27-08.21.57:526][492]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.57:824][505]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2024.04.27-08.21.57:824][505]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.58:092][517]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2024.04.27-08.21.58:092][517]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.58:430][533]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2024.04.27-08.21.58:430][533]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.21.58:473][535]LogSlate: Window 'Message Log' being destroyed
+[2024.04.27-08.21.58:493][535]LogSlate: Window 'Message Log' being destroyed
+[2024.04.27-08.22.01:255][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.04.27-08.22.01:255][629]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.22.01:553][639]Cmd: TRANSACTION UNDO
+[2024.04.27-08.22.01:554][639]LogEditorTransaction: Undo Clicking on Actors
+[2024.04.27-08.22.02:525][681]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2024.04.27-08.22.02:525][681]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.22.03:349][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.27-08.22.03:657][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2024.04.27-08.22.03:657][711]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.22.04:173][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.22.04:173][711]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.22.04:471][711]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.27-08.22.04:505][711]LogUObjectGlobals: Force Deleting 45 Package(s):
+	Asset Name: /Game/assets/karakter/textures/LCBase_BaseColor_tga.LCBase_BaseColor_tga
+	Asset Name: /Game/assets/karakter/textures/LCBase_Metallic_tga.LCBase_Metallic_tga
+	Asset Name: /Game/assets/karakter/textures/LCBase_Normal_tga.LCBase_Normal_tga
+	Asset Name: /Game/assets/karakter/textures/LCBase_Roughness_tga.LCBase_Roughness_tga
+	Asset Name: /Game/assets/karakter/textures/LCInsignia.LCInsignia
+	Asset Name: /Game/assets/karakter/untitled.untitled_body_lowpoly
+	Asset Name: /Game/assets/karakter/untitled.untitled_boots_lowpoly2_001
+	Asset Name: /Game/assets/karakter/untitled.untitled_buckles_lowpoly1_001
+	Asset Name: /Game/assets/karakter/untitled.untitled_buckles_lowpoly2_001
+	Asset Name: /Game/assets/karakter/untitled.untitled_buckles_lowpoly3_001
+[2024.04.27-08.22.05:173][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2024.04.27-08.22.05:173][711]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.22.05:629][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.27-08.22.05:712][713]LogLinker: Warning: Failed to load '/Game/assets/karakter/untitled': Can't find file.
+[2024.04.27-08.22.05:712][713]LogLinker: Warning: Failed to load '/Game/assets/karakter/untitled': Can't find file.
+[2024.04.27-08.22.05:712][713]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/assets/karakter/untitled.untitled_body_lowpoly'
+[2024.04.27-08.22.07:605][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.27-08.22.09:319][789]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.27-08.22.09:448][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.27-08.22.23:877][241]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\untitled.fbx)
+[2024.04.27-08.22.23:892][241]LogFbx: Loading FBX Scene from C:\Users\burak\Desktop\pura game jam\karakter\untitled.fbx
+[2024.04.27-08.22.23:929][241]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.27-08.22.26:441][241]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.27-08.22.26:463][241]LogMaterial: Display: Missing cached shadermap for LCBase in PCD3D_SM5, Default, SM5 (DDC key hash: 363288C7F4DD397F7C52E3C165D450114B0B8299), compiling. 
+[2024.04.27-08.22.26:469][241]LogStaticMesh: Building static mesh untitled_head_lowpoly_001...
+[2024.04.27-08.22.26:481][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_head_lowpoly_001.untitled_head_lowpoly_001
+[2024.04.27-08.22.26:501][241]LogStaticMesh: Building static mesh untitled_gastank_lowpoly_001...
+[2024.04.27-08.22.26:532][241]LogStaticMesh: Built static mesh [0.03s] /Game/assets/karakter/untitled_gastank_lowpoly_001.untitled_gastank_lowpoly_001
+[2024.04.27-08.22.26:550][241]LogFbx: Display: Triangulating static mesh shoesoles1_lowpoly1.001
+[2024.04.27-08.22.26:564][241]LogStaticMesh: Building static mesh untitled_shoesoles1_lowpoly1_001...
+[2024.04.27-08.22.26:574][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_shoesoles1_lowpoly1_001.untitled_shoesoles1_lowpoly1_001
+[2024.04.27-08.22.26:587][241]LogStaticMesh: Building static mesh untitled_boots_lowpoly2_001...
+[2024.04.27-08.22.26:604][241]LogStaticMesh: Built static mesh [0.02s] /Game/assets/karakter/untitled_boots_lowpoly2_001.untitled_boots_lowpoly2_001
+[2024.04.27-08.22.26:619][241]LogStaticMesh: Building static mesh untitled_flashlightleather_lowpoly_001...
+[2024.04.27-08.22.26:626][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_flashlightleather_lowpoly_001.untitled_flashlightleather_lowpoly_001
+[2024.04.27-08.22.26:638][241]LogStaticMesh: Building static mesh untitled_gastank_lowpoly_002...
+[2024.04.27-08.22.26:652][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_gastank_lowpoly_002.untitled_gastank_lowpoly_002
+[2024.04.27-08.22.26:675][241]LogStaticMesh: Building static mesh untitled_head1_lowpoly_001...
+[2024.04.27-08.22.26:681][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_head1_lowpoly_001.untitled_head1_lowpoly_001
+[2024.04.27-08.22.26:689][241]LogStaticMesh: Building static mesh untitled_buckles_lowpoly5_001...
+[2024.04.27-08.22.26:694][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_buckles_lowpoly5_001.untitled_buckles_lowpoly5_001
+[2024.04.27-08.22.26:701][241]LogFbx: Display: Triangulating static mesh shoesoles_lowpoly2.001
+[2024.04.27-08.22.26:715][241]LogStaticMesh: Building static mesh untitled_shoesoles_lowpoly2_001...
+[2024.04.27-08.22.26:726][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_shoesoles_lowpoly2_001.untitled_shoesoles_lowpoly2_001
+[2024.04.27-08.22.26:737][241]LogStaticMesh: Building static mesh untitled_valve_lowpoly_001...
+[2024.04.27-08.22.26:750][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_valve_lowpoly_001.untitled_valve_lowpoly_001
+[2024.04.27-08.22.26:760][241]LogStaticMesh: Building static mesh untitled_flashlightpouch_lowpoly_001...
+[2024.04.27-08.22.26:766][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_flashlightpouch_lowpoly_001.untitled_flashlightpouch_lowpoly_001
+[2024.04.27-08.22.26:775][241]LogStaticMesh: Building static mesh untitled_valve_lowpoly_002...
+[2024.04.27-08.22.26:781][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_valve_lowpoly_002.untitled_valve_lowpoly_002
+[2024.04.27-08.22.26:790][241]LogStaticMesh: Building static mesh untitled_filter_lowpoly_001...
+[2024.04.27-08.22.26:797][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_filter_lowpoly_001.untitled_filter_lowpoly_001
+[2024.04.27-08.22.26:804][241]LogStaticMesh: Building static mesh untitled_buckles_lowpoly3_001...
+[2024.04.27-08.22.26:807][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_buckles_lowpoly3_001.untitled_buckles_lowpoly3_001
+[2024.04.27-08.22.26:813][241]LogFbx: Display: Triangulating static mesh shoesoles_lowpoly.001
+[2024.04.27-08.22.26:822][241]LogStaticMesh: Building static mesh untitled_shoesoles_lowpoly_001...
+[2024.04.27-08.22.26:829][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_shoesoles_lowpoly_001.untitled_shoesoles_lowpoly_001
+[2024.04.27-08.22.26:837][241]LogStaticMesh: Building static mesh untitled_flashlight_lowpoly_001...
+[2024.04.27-08.22.26:849][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_flashlight_lowpoly_001.untitled_flashlight_lowpoly_001
+[2024.04.27-08.22.26:872][241]LogStaticMesh: Building static mesh untitled_hand_lowpoly...
+[2024.04.27-08.22.26:912][241]LogStaticMesh: Built static mesh [0.04s] /Game/assets/karakter/untitled_hand_lowpoly.untitled_hand_lowpoly
+[2024.04.27-08.22.26:933][241]LogStaticMesh: Building static mesh untitled_gastank_lowpoly_003...
+[2024.04.27-08.22.26:933][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_gastank_lowpoly_003.untitled_gastank_lowpoly_003
+[2024.04.27-08.22.26:939][241]LogStaticMesh: Building static mesh untitled_headbutton_lowpoly_001...
+[2024.04.27-08.22.26:949][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_headbutton_lowpoly_001.untitled_headbutton_lowpoly_001
+[2024.04.27-08.22.26:957][241]LogStaticMesh: Building static mesh untitled_buckles_lowpoly1_001...
+[2024.04.27-08.22.26:959][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_buckles_lowpoly1_001.untitled_buckles_lowpoly1_001
+[2024.04.27-08.22.26:965][241]LogStaticMesh: Building static mesh untitled_toolbelt_lowpoly_001...
+[2024.04.27-08.22.26:972][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_toolbelt_lowpoly_001.untitled_toolbelt_lowpoly_001
+[2024.04.27-08.22.26:979][241]LogFbx: Display: Triangulating static mesh cheststraps1_lowpoly.001
+[2024.04.27-08.22.27:008][241]LogStaticMesh: Building static mesh untitled_cheststraps1_lowpoly_001...
+[2024.04.27-08.22.27:017][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_cheststraps1_lowpoly_001.untitled_cheststraps1_lowpoly_001
+[2024.04.27-08.22.27:026][241]LogFbx: Display: Triangulating static mesh tubes_lowpoly
+[2024.04.27-08.22.27:078][241]LogStaticMesh: Building static mesh untitled_tubes_lowpoly...
+[2024.04.27-08.22.27:097][241]LogStaticMesh: Built static mesh [0.02s] /Game/assets/karakter/untitled_tubes_lowpoly.untitled_tubes_lowpoly
+[2024.04.27-08.22.27:112][241]LogStaticMesh: Building static mesh untitled_gastankscrew_lowpoly_004...
+[2024.04.27-08.22.27:115][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_gastankscrew_lowpoly_004.untitled_gastankscrew_lowpoly_004
+[2024.04.27-08.22.27:122][241]LogStaticMesh: Building static mesh untitled_buckles_lowpoly2_001...
+[2024.04.27-08.22.27:124][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_buckles_lowpoly2_001.untitled_buckles_lowpoly2_001
+[2024.04.27-08.22.27:132][241]LogStaticMesh: Building static mesh untitled_toolbelt1_lowpoly2_001...
+[2024.04.27-08.22.27:139][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_toolbelt1_lowpoly2_001.untitled_toolbelt1_lowpoly2_001
+[2024.04.27-08.22.27:145][241]LogFbx: Display: Triangulating static mesh cheststraps_lowpoly.001
+[2024.04.27-08.22.27:180][241]LogStaticMesh: Building static mesh untitled_cheststraps_lowpoly_001...
+[2024.04.27-08.22.27:192][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_cheststraps_lowpoly_001.untitled_cheststraps_lowpoly_001
+[2024.04.27-08.22.27:232][241]LogStaticMesh: Building static mesh untitled_body_lowpoly...
+[2024.04.27-08.22.27:336][241]LogStaticMesh: Built static mesh [0.10s] /Game/assets/karakter/untitled_body_lowpoly.untitled_body_lowpoly
+[2024.04.27-08.22.27:382][241]LogStaticMesh: Building static mesh untitled_buckles_lowpoly4_001...
+[2024.04.27-08.22.27:387][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_buckles_lowpoly4_001.untitled_buckles_lowpoly4_001
+[2024.04.27-08.22.27:394][241]LogStaticMesh: Building static mesh untitled_toolbelt1_lowpoly1_001...
+[2024.04.27-08.22.27:401][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_toolbelt1_lowpoly1_001.untitled_toolbelt1_lowpoly1_001
+[2024.04.27-08.22.27:412][241]LogStaticMesh: Building static mesh untitled_Radio_lowpoly_001...
+[2024.04.27-08.22.27:420][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_Radio_lowpoly_001.untitled_Radio_lowpoly_001
+[2024.04.27-08.22.27:429][241]LogFbx: Display: Triangulating static mesh nameplate_lowpoly.001
+[2024.04.27-08.22.27:430][241]LogStaticMesh: Building static mesh untitled_nameplate_lowpoly_001...
+[2024.04.27-08.22.27:431][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_nameplate_lowpoly_001.untitled_nameplate_lowpoly_001
+[2024.04.27-08.22.27:439][241]LogStaticMesh: Building static mesh untitled_buckles_lowpoly_001...
+[2024.04.27-08.22.27:445][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_buckles_lowpoly_001.untitled_buckles_lowpoly_001
+[2024.04.27-08.22.27:454][241]LogStaticMesh: Building static mesh untitled_gastankstraps_lowpoly2_001...
+[2024.04.27-08.22.27:459][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_gastankstraps_lowpoly2_001.untitled_gastankstraps_lowpoly2_001
+[2024.04.27-08.22.27:467][241]LogStaticMesh: Building static mesh untitled_RadioPocket_lowpoly...
+[2024.04.27-08.22.27:475][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_RadioPocket_lowpoly.untitled_RadioPocket_lowpoly
+[2024.04.27-08.22.27:482][241]LogFbx: Display: Triangulating static mesh nametag_lowpoly.001
+[2024.04.27-08.22.27:486][241]LogStaticMesh: Building static mesh untitled_nametag_lowpoly_001...
+[2024.04.27-08.22.27:487][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_nametag_lowpoly_001.untitled_nametag_lowpoly_001
+[2024.04.27-08.22.27:494][241]LogStaticMesh: Building static mesh untitled_buckles_lowpoly6_001...
+[2024.04.27-08.22.27:502][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_buckles_lowpoly6_001.untitled_buckles_lowpoly6_001
+[2024.04.27-08.22.27:511][241]LogStaticMesh: Building static mesh untitled_gastankstraps_lowpoly3_001...
+[2024.04.27-08.22.27:515][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_gastankstraps_lowpoly3_001.untitled_gastankstraps_lowpoly3_001
+[2024.04.27-08.22.27:524][241]LogStaticMesh: Building static mesh untitled_flashlightholster_lowpoly_001...
+[2024.04.27-08.22.27:529][241]LogStaticMesh: Built static mesh [0.01s] /Game/assets/karakter/untitled_flashlightholster_lowpoly_001.untitled_flashlightholster_lowpoly_001
+[2024.04.27-08.22.27:537][241]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\burak\Desktop\pura game jam\karakter\source\textures\LCInsignia.png
+[2024.04.27-08.22.27:539][241]LogMaterial: Display: Missing cached shadermap for LCInsignia in PCD3D_SM5, Default, SM5 (DDC key hash: 6623B4721F9AE9C39D3BB0AE6CE9863955A0E113), compiling. 
+[2024.04.27-08.22.27:543][241]LogFbx: Display: Triangulating static mesh NameTag
+[2024.04.27-08.22.27:545][241]LogStaticMesh: Building static mesh untitled_NameTag...
+[2024.04.27-08.22.27:546][241]LogStaticMesh: Built static mesh [0.00s] /Game/assets/karakter/untitled_NameTag.untitled_NameTag
+[2024.04.27-08.22.27:687][241]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'LCInsignia' was renamed 'LCInsignia_ncl1_1' 
+[2024.04.27-08.22.27:687][241]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'LCInsignia' was renamed 'LCInsignia_ncl1_2' 
+[2024.04.27-08.22.27:687][241]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.27-08.22.27:753][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_BaseColor.tga.png)
+[2024.04.27-08.22.28:180][241]LogTexture: Display: Building textures: LCBase_BaseColor_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.22.29:257][241]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.29:257][241]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.29:257][241]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.29:280][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Metallic.tga.png)
+[2024.04.27-08.22.29:331][241]LogTexture: Display: Building textures: LCBase_Metallic_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.22.30:044][241]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.30:044][241]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.30:044][241]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.30:083][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Normal.tga.png)
+[2024.04.27-08.22.30:629][241]LogTexture: Display: Building textures: LCBase_Normal_tga (OODLE_BC5, 4096X4096)
+[2024.04.27-08.22.31:125][241]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.22.31:125][241]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.22.31:126][241]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.22.31:167][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Roughness.tga.png)
+[2024.04.27-08.22.31:352][241]LogTexture: Display: Building textures: LCBase_Roughness_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.22.32:794][241]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.32:794][241]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.32:794][241]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.22.32:814][241]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCInsignia.png)
+[2024.04.27-08.22.32:825][241]LogTexture: Display: Building textures: LCInsignia (OODLE_AutoDXT, 512X1024)
+[2024.04.27-08.22.32:987][241]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.27-08.22.34:991][331]LogSlate: Window 'Message Log' being destroyed
+[2024.04.27-08.22.35:002][331]LogSlate: Window 'Message Log' being destroyed
+[2024.04.27-08.22.49:171][  1]LogMaterial: Display: Material /Game/assets/karakter/LCBase.LCBase needed to have new flag set bUsedWithStaticLighting !
+[2024.04.27-08.22.49:172][  1]LogMaterial: Display: Missing cached shadermap for LCBase in PCD3D_SM5, Default, SM5 (DDC key hash: 4C589ABD2082E269481835E98F891DBD12236B12), compiling. 
+[2024.04.27-08.22.49:207][  1]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Low' priority
+[2024.04.27-08.22.49:227][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.22.49:227][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.22.49:227][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2024.04.27-08.22.49:227][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2024.04.27-08.22.49:227][  2]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.22.49:227][  2]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.22.50:042][ 44]Cmd: TRANSACTION UNDO
+[2024.04.27-08.22.50:042][ 44]LogEditorTransaction: Undo Create Actors
+[2024.04.27-08.22.50:483][ 56]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2024.04.27-08.22.50:483][ 56]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.22.50:924][ 73]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.22.50:924][ 73]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.22.51:339][ 87]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2024.04.27-08.22.51:339][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.23.55:385][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.27-08.23.56:496][ 14]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.27-08.23.56:619][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.27-08.24.08:079][399]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.27-08.24.08:097][399]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.27-08.24.09:544][484]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2024.04.27-08.24.09:545][484]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.27-08.24.32:791][795]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/burak/Desktop/pura game jam/karakter/karakater.fbx)
+[2024.04.27-08.24.32:801][795]LogFbx: Loading FBX Scene from ../../../../../../Users/burak/Desktop/pura game jam/karakter/karakater.fbx
+[2024.04.27-08.24.32:825][795]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.27-08.24.33:967][795]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.27-08.24.33:987][795]LogFbx: Display: Triangulating static mesh tubes_lowpoly
+[2024.04.27-08.24.34:320][795]LogStaticMesh: Building static mesh karakater...
+[2024.04.27-08.24.34:689][795]LogStaticMesh: Built static mesh [0.37s] /Game/assets/karakater.karakater
+[2024.04.27-08.24.34:875][795]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.27-08.24.36:342][865]LogSlate: Window 'Message Log' being destroyed
+[2024.04.27-08.24.36:355][865]LogSlate: Window 'Message Log' being destroyed
+[2024.04.27-08.24.37:516][932]LogActorFactory: Actor Factory created karakater
+[2024.04.27-08.24.38:561][991]LogActorFactory: Actor Factory created karakater
+[2024.04.27-08.24.52:923][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/NewFolder/karakater" FILE="../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/assets/NewFolder/karakater.uasset" SILENT=true
+[2024.04.27-08.24.53:002][830]LogSavePackage: Moving '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/karakaterD57CA8C34F473BA5305C74A818F38C6E.tmp' to '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/assets/NewFolder/karakater.uasset'
+[2024.04.27-08.24.53:081][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.27-08.24.53:101][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.04.27-08.24.53:107][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.27-08.24.53:147][830]AssetCheck: New page: Asset Save: karakater
+[2024.04.27-08.24.53:147][830]LogContentValidation: Display: Validating StaticMesh /Game/assets/NewFolder/karakater.karakater
+[2024.04.27-08.25.04:520][989]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_BaseColor.tga.png)
+[2024.04.27-08.25.04:946][989]LogTexture: Display: Building textures: LCBase_BaseColor_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.25.06:132][989]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.06:132][989]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.06:132][989]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.06:142][989]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Metallic.tga.png)
+[2024.04.27-08.25.06:198][989]LogTexture: Display: Building textures: LCBase_Metallic_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.25.06:926][989]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.06:926][989]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.06:926][989]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.06:964][989]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Normal.tga.png)
+[2024.04.27-08.25.07:517][989]LogTexture: Display: Building textures: LCBase_Normal_tga (OODLE_BC5, 4096X4096)
+[2024.04.27-08.25.08:085][989]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.25.08:086][989]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.25.08:086][989]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.27-08.25.08:143][989]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCBase_Roughness.tga.png)
+[2024.04.27-08.25.08:345][989]LogTexture: Display: Building textures: LCBase_Roughness_tga (OODLE_AutoDXT, 4096X4096)
+[2024.04.27-08.25.09:836][989]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.09:836][989]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.09:836][989]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.27-08.25.09:857][989]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\burak\Desktop\pura game jam\karakter\textures/LCInsignia.png)
+[2024.04.27-08.25.09:865][989]LogTexture: Display: Building textures: LCInsignia (OODLE_AutoDXT, 512X1024)
+[2024.04.27-08.25.09:921][989]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.27-08.25.27:902][880]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.04.27-08.25.27:914][880]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.04.27-08.25.30:155][ 15]LogContentBrowser: Attempting asset rename: NewMaterial -> karakter
+[2024.04.27-08.25.30:156][ 15]LogContentBrowser: End creating deferred item NewMaterial
+[2024.04.27-08.25.33:022][178]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/assets/NewFolder/textures/karakter.karakter
+[2024.04.27-08.25.33:027][178]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 4E513F4AB5D07266FB475C551D51B0A3253D773B), compiling. 
+[2024.04.27-08.25.33:037][178]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.33:059][178]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.04.27-08.25.33:154][178]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.04.27-08.25.33:364][178]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: E5769E089168933A9C274F4285714E355D5C5A62), compiling. 
+[2024.04.27-08.25.33:379][178]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.27-08.25.33:389][178]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.27-08.25.33:547][179]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.33:547][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.25.33:547][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.25.33:547][179]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.33:547][179]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.33:547][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2024.04.27-08.25.33:547][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2024.04.27-08.25.33:547][179]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.34:797][224]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.04.27-08.25.34:797][224]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.34:797][224]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.27-08.25.34:797][224]LogShaderCompilers: Display: Total job queries 283, among them cache hits 126 (44.52%)
+[2024.04.27-08.25.34:797][224]LogShaderCompilers: Display: Tracking 74 distinct input hashes that result in 31 distinct outputs (41.89%)
+[2024.04.27-08.25.34:797][224]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2024.04.27-08.25.34:797][224]LogShaderCompilers: Display: ================================================
+[2024.04.27-08.25.35:365][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.04.27-08.25.35:365][244]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.35:394][245]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.27-08.25.36:860][310]MaterialEditorStats: Base pass shader: 117 instructions
+[2024.04.27-08.25.36:860][310]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2024.04.27-08.25.36:860][310]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2024.04.27-08.25.36:860][310]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.27-08.25.44:429][710]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 41A979ABD6B485A8E6811421D74FDCFE3DD556EC), compiling. 
+[2024.04.27-08.25.44:431][710]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 98E2C73412943938DFC5F33BED54C191ED30D23F), compiling. 
+[2024.04.27-08.25.44:435][710]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 70849E8A4C438B03FC0E9AD9FD2C1E076BFDF791), compiling. 
+[2024.04.27-08.25.44:441][710]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.27-08.25.44:501][712]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.44:501][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.25.44:501][712]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.25.44:501][712]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.44:502][712]MaterialEditorStats: Base pass shader: 117 instructions
+[2024.04.27-08.25.44:502][712]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2024.04.27-08.25.44:502][712]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2024.04.27-08.25.44:502][712]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.27-08.25.48:596][937]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: E348C5079F1C5676E22E724BC6787F15B504489D), compiling. 
+[2024.04.27-08.25.48:598][937]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 74EBCD33B6285E45A838773936F9B07ED3356EA6), compiling. 
+[2024.04.27-08.25.48:603][937]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.27-08.25.48:603][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.04.27-08.25.48:603][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.25.48:616][938]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.48:617][938]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.25.48:617][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.25.48:617][938]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.48:634][939]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.48:634][939]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2024.04.27-08.25.48:634][939]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2024.04.27-08.25.48:634][939]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.49:851][980]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.04.27-08.25.49:851][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.49:851][980]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.04.27-08.25.49:851][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.49:851][980]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.27-08.25.49:851][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.04.27-08.25.49:851][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.25.50:722][  9]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 55AE6362E7509274728FD39838A6BD7BB882A8B3), compiling. 
+[2024.04.27-08.25.50:725][  9]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A71372C51708365F9BAF2BA336BD98155F409FF), compiling. 
+[2024.04.27-08.25.50:728][  9]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 311BAB447D248C7D70ED3EDC6DB18D46EB0384D1), compiling. 
+[2024.04.27-08.25.50:731][  9]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A106CB11D9B9AB26AD6532FEE07FEA7B8BCD6400), compiling. 
+[2024.04.27-08.25.50:737][  9]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.27-08.25.50:737][  9]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.04.27-08.25.50:737][  9]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.25.50:805][ 11]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.50:805][ 11]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.04.27-08.25.50:805][ 11]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.50:807][ 11]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.27-08.25.50:807][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.04.27-08.25.50:807][ 11]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.25.51:318][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.04.27-08.25.51:318][ 30]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.51:870][ 53]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.04.27-08.25.51:870][ 53]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.04.27-08.25.51:870][ 53]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.04.27-08.25.51:870][ 53]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.27-08.25.51:870][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.04.27-08.25.51:870][ 53]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.25.54:854][216]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 26ED40F4FAFDE7933F7C2F82F6D53810364B794B), compiling. 
+[2024.04.27-08.25.54:857][216]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B90839201EF6714A3B3E2C4A144C4B83EBBEDAA), compiling. 
+[2024.04.27-08.25.54:861][216]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.27-08.25.54:861][216]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.04.27-08.25.54:861][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.25.54:874][217]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.54:891][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.25.54:891][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.25.54:891][218]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.25.54:891][218]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.54:891][218]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2024.04.27-08.25.54:891][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2024.04.27-08.25.54:891][218]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.55:701][250]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.04.27-08.25.55:702][250]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.56:042][263]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.04.27-08.25.56:042][263]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.25.56:985][305]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.27-08.25.56:985][305]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.04.27-08.25.56:985][305]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.25.57:620][330]MaterialEditorStats: Base pass shader: 122 instructions
+[2024.04.27-08.25.57:620][330]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2024.04.27-08.25.57:620][330]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.04.27-08.25.57:620][330]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.27-08.25.57:620][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.04.27-08.25.57:620][330]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.14:947][434]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 873E05DDAEC343EA5C8DCA5DEB6EFE994E6A396D), compiling. 
+[2024.04.27-08.26.14:949][434]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 326761CD4427B94442172DE876B92FB57CE8B782), compiling. 
+[2024.04.27-08.26.14:952][434]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E7CA8D11D1C14A1BABDC58BF07B22D282672912), compiling. 
+[2024.04.27-08.26.14:954][434]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5690DCB7C940A4286DDBFE1931E87FA5070C0693), compiling. 
+[2024.04.27-08.26.14:957][434]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 059D3D22FF7F4F82E6EB8ED6DACA6EE3866C6EF8), compiling. 
+[2024.04.27-08.26.14:964][434]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.27-08.26.14:964][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.04.27-08.26.14:964][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.15:080][436]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.15:080][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.26.15:080][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.26.15:080][436]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.15:085][436]MaterialEditorStats: Base pass shader: 122 instructions
+[2024.04.27-08.26.15:085][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2024.04.27-08.26.15:085][436]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.04.27-08.26.15:085][436]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.27-08.26.15:085][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.04.27-08.26.15:085][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.16:857][479]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 432FA00933C5B06405BFB5ED08F817F35F59FEC8), compiling. 
+[2024.04.27-08.26.16:861][479]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B0E1D8F60400D407B48EDD779B19E534C2BC47DE), compiling. 
+[2024.04.27-08.26.16:869][479]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.27-08.26.16:869][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.27-08.26.16:869][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.16:895][480]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.16:928][481]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.26.16:928][481]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.26.16:928][481]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.16:928][481]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.16:928][481]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2024.04.27-08.26.16:928][481]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2024.04.27-08.26.16:928][481]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.18:617][514]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: C6BC7E8E9E1015AAC8A34CCE96C515E073E5A252), compiling. 
+[2024.04.27-08.26.18:624][514]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B7A1695EC4F799041160A5BAEF443D9B2B4B0002), compiling. 
+[2024.04.27-08.26.18:627][514]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A1E31AF4E581C747FF9FB6CA5FC3A51A3A6176A7), compiling. 
+[2024.04.27-08.26.18:631][514]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DFF261DBBFCE673CE6B3455A7F808666243FB26), compiling. 
+[2024.04.27-08.26.18:635][514]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 369F743B143392D6510277511E528353D82B6577), compiling. 
+[2024.04.27-08.26.18:639][514]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 02F0C6C0B652C2570999741B2A3C6CF32FCA79ED), compiling. 
+[2024.04.27-08.26.18:711][515]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.18:779][516]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.20:285][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2024.04.27-08.26.20:285][545]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.20:510][550]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.04.27-08.26.20:510][550]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.21:920][578]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.27-08.26.21:921][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.27-08.26.21:921][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.23:199][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.26.23:200][601]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.23:200][601]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.26.23:200][601]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.27:523][707]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 8EBE98E936ABE1701BAB18FFCA9A95DED5B9558B), compiling. 
+[2024.04.27-08.26.27:526][707]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A635E485EDD1EE765E5EA65602D41BAB323FB040), compiling. 
+[2024.04.27-08.26.27:534][707]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.27-08.26.27:534][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.04.27-08.26.27:534][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.27:576][707]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.27:576][707]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.26.27:576][707]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.26.27:576][707]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.27:576][707]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.27:576][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2024.04.27-08.26.27:576][707]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2024.04.27-08.26.27:576][707]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.29:687][756]LogMaterialEditor: Applying material karakter
+[2024.04.27-08.26.30:264][756]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 8C2DC8938F56BFB8C481531C252367FEAFA26607), compiling. 
+[2024.04.27-08.26.30:324][756]LogMaterial: Display: Missing cached shadermap for karakter in PCD3D_SM5, Default, SM5 (DDC key hash: 9FD4FFD52B7AFDDAFFE8ABF8087EFC4E1C6F4EDE), compiling. 
+[2024.04.27-08.26.30:379][756]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.30:387][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.04.27-08.26.30:414][756]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.32:943][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.26.32:943][756]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.27-08.26.32:943][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.04.27-08.26.32:943][756]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.32:943][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.04.27-08.26.32:943][756]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.32:987][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.27-08.26.33:005][756]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.27-08.26.33:005][756]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.04.27-08.26.33:005][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.33:099][758]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2024.04.27-08.26.33:099][758]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2024.04.27-08.26.33:099][758]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2024.04.27-08.26.33:099][758]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.33:099][758]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.33:117][758]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.27-08.26.33:117][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.04.27-08.26.33:117][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.33:992][767]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2024.04.27-08.26.33:992][767]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.34:089][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.04.27-08.26.34:090][768]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.27-08.26.36:224][805]MaterialEditorStats: Texture samplers: 7/16
+[2024.04.27-08.26.36:224][805]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.04.27-08.26.36:224][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.36:993][823]MaterialEditorStats: Base pass shader: 130 instructions
+[2024.04.27-08.26.36:993][823]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2024.04.27-08.26.36:993][823]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.04.27-08.26.36:993][823]MaterialEditorStats: Texture samplers: 7/16
+[2024.04.27-08.26.36:993][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2024.04.27-08.26.36:993][823]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.27-08.26.38:926][879]LogSlate: Window 'karakter' being destroyed
+[2024.04.27-08.26.38:942][879]LogSlate: Window 'karakter' being destroyed
+[2024.04.27-08.26.38:997][879]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.26.38:997][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.26.54:296][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (karakater)
+[2024.04.27-08.27.01:477][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (karakater)
